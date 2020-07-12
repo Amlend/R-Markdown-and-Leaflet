@@ -1,4 +1,5 @@
 # R-Markdown-and-Leaflet
+The HTML page can be viewed online by clicking [here.](https://amlend.github.io/R-Markdown-and-Leaflet/)
 ### Assignment
 Create a web page using R Markdown that features a map created with Leaflet.
 
